@@ -1,5 +1,5 @@
 # DisTrO
-This is the repository for DisTrO (Distributed Training Over-The-Internet), a family of architecture-agnostic and network-agnostic distributed optimizers that reduce inter-GPU communication requirements by three to four orders of magnitude without relying on amortized analysis, enabling low-latency training of large neural networks on slow internet bandwidths with heterogeneous networking hardware.
+This is the repository for DisTrO (Distributed Training Over-The-Internet), a family of low latency distributed optimizers that reduce inter-GPU communication requirements by three to four orders of magnitude.
 
 - [x] Aug. 26th, 2024: [Preliminary Report](https://github.com/NousResearch/DisTrO/raw/main/A_Preliminary_Report_on_DisTrO.pdf)
 - [ ] Coming Soon: Paper and Code
